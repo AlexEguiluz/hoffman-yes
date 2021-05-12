@@ -1,4 +1,5 @@
-Inspired by Armin Hoffman's book "Graphic design manual", I'm here trying to learn a bit of P5js 
+Inspired by Armin Hoffman's book "Graphic design manual", I'm here trying to learn a bit of P5js.
+
 Each time you reload the page, the pattern changes.
 When the mouse hovers over it the background color changes as well. 
 
