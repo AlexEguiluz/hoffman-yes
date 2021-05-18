@@ -1,6 +1,6 @@
 # Hofmann-Yes
 
-Inspired by Armin Hofmann's book "Graphic design manual", I decided to give it color and interaction to his designs using Java Script and the P5js library watching a lot of tutorials from [The coding train/](https://www.youtube.com/user/shiffman). This page is special to me because it is one of the first ones I made in 2018 when I became interested in the web as part of my artistic practice.
+Inspired by Armin Hofmann's book "Graphic design manual", I decided to give it color and interaction to his designs using Java Script and the P5js library watching a lot of tutorials from [The coding train](https://www.youtube.com/user/shiffman). This page is special to me because it is one of the first ones I made in 2018 when I became interested in the web as part of my artistic practice.
 
 ### How does it work? <br>
 Each time we reload the page, the Hoffman's pattern changes.
